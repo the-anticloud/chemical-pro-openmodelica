@@ -1,0 +1,6 @@
+# 21 Related Scientific Research
+
+**Project:** OPENMODELICA
+**Upstream:** https://github.com/OpenModelica/OpenModelica
+
+Content specific to OPENMODELICA in category CHEMICAL_PRODUCTION.
